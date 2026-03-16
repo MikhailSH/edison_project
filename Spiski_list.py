@@ -87,4 +87,4 @@ print(s)
 arr3 = ['aa', 'abb', 'cc', 'bc']
 print(arr3)
 arr3.sort()# работает с одинаковыми данными
-print(arr3)
+print(arr3)# распечатка
