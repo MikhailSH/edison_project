@@ -43,5 +43,5 @@ def make_purchase1():
     if not chek_costumer_can_unit(unit, costumer):
         raise Exception('нет денег')
 
-    return 'успешно'
+    return 'успешно '
 print(make_purchase1())
