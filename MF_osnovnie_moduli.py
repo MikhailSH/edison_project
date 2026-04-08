@@ -1,6 +1,6 @@
 #основнше модули
 #os sis папки файлы
-import os, sys
+'''import os, sys
 print(os.listdir())
 
 import math #математический и статистический модули
@@ -8,7 +8,7 @@ from math import sin, cos, pi, exp
 from statistics import mean
 
 import glob #отбирает файлы по заданым параметрам
-print(glob.glob('*_*.py'))
+print(glob.glob('*_*.py'))'''
 
 #временной модуль
 import time
@@ -19,6 +19,7 @@ start = time.time()
 timer()
 print(time.time() - start)
 
+'''
 #datetime
 import datetime
-print(datetime.datetime.now())
+print(datetime.datetime.now())'''
